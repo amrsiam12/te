@@ -1,0 +1,7 @@
+owner=569947283421003777
+prefix=1play
+game=1play
+stayinchannel=true
+songinstatus=false
+token=NTc3NjU3OTAxMTIwNzQ5NTY5.XNoP3Q.5a-DUISM32M1zphMkxhq_7rM8FQ
+var setGame = ['Type !help'];
